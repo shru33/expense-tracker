@@ -4,7 +4,7 @@ import { useUserAuth } from '../../hooks/useUserAuth';
 import { useNavigate } from 'react-router-dom';
 import axiosInstance from '../../utills/axiosInstance';
 import { API_PATHS } from '../../utills/apiPaths';
-import InfoCard from '../../components/cards/infoCard';
+import InfoCard from '../../components/cards/InfoCard';
 
 import { LuHandCoins, LuWalletMinimal } from 'react-icons/lu';
 import { IoMdCard } from 'react-icons/io';
